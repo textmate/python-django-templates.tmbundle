@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>{% block $1 %}
 	$2
-{% endblock %}</string>
+{% endblock $1 %}</string>
 	<key>name</key>
 	<string>block</string>
 	<key>scope</key>
