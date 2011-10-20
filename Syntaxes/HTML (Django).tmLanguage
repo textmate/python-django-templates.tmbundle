@@ -5,9 +5,9 @@
 	<key>fileTypes</key>
 	<array/>
 	<key>foldingStartMarker</key>
-	<string>(&lt;(?i:(head|table|tr|div|style|script|ul|ol|form|dl))\b.*?&gt;|{% (block|comment|filter|for|if|ifchanged|ifequal|ifnotequal))</string>
+	<string>(&lt;(?i:a|head|body|table|thead|tbody|small|tfoot|tr|div|header|article|section|footer|aside|nav|select|fieldset|style|script|ul|ol|li|form|dl|p)\b.*?&gt;|{% (block|comment|filter|for|if|ifchanged|ifequal|ifnotequal))</string>
 	<key>foldingStopMarker</key>
-	<string>(&lt;/(?i:(head|table|tr|div|style|script|ul|ol|form|dl))&gt;|{% (endblock|endblocktrans|endcomment|endfilter|endfor|endif|endifchanged|endifequal|endifnotequal) %})</string>
+	<string>(&lt;/(?i:a|head|body|table|thead|tbody|small|tfoot|tr|div|header|article|section|footer|aside|nav|select|fieldset|style|script|ul|ol|li|form|dl|p)\b.*?&gt;|{% (endblock|endblocktrans|endcomment|endfilter|endfor|endif|endifchanged|endifequal|endifnotequal) %})</string>
 	<key>keyEquivalent</key>
 	<string>^~D</string>
 	<key>name</key>
