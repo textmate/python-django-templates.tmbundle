@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{% with ${1:var} as ${2:name} %}{{ ${3:$2} }}{% endwith %}</string>
+	<string>{% else %}</string>
 	<key>name</key>
-	<string>with</string>
+	<string>else</string>
 	<key>scope</key>
 	<string>text.html.django</string>
 	<key>tabTrigger</key>
-	<string>with</string>
+	<string>else</string>
 	<key>uuid</key>
-	<string>BA43AB3C-3FB5-4C01-B7B8-35D2617E3895</string>
+	<string>A8377C14-2E0A-4227-A6A7-3B40EB918D7F</string>
 </dict>
 </plist>

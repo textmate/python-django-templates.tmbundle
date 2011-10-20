@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{% ifchanged %}$1{% endifchanged %}</string>
+	<string>{% ifchanged %}$0{% endifchanged %}</string>
 	<key>name</key>
 	<string>ifchanged</string>
 	<key>scope</key>
