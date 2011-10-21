@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{% with ${1:var} as ${2:name} %}</string>
+	<string>{% with ${1:var} as ${2:name} %}{{ ${3:$2} }}{% endwith %}</string>
 	<key>name</key>
 	<string>with</string>
 	<key>scope</key>

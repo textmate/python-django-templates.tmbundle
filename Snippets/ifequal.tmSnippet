@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{% ifequal $1 $2 %}
-	$3
-{% endifequal %}</string>
+	<string>{% ifequal $1 $2 %}$0{% endifequal %}</string>
 	<key>name</key>
 	<string>ifequal</string>
 	<key>scope</key>

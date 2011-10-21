@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{% trans "${1:${TM_SELECTED_TEXT:string to translate}}" %}</string>
+	<string>{% spaceless %}$0{% endspaceless %}</string>
 	<key>name</key>
-	<string>trans</string>
+	<string>spaceless</string>
 	<key>scope</key>
 	<string>text.html.django</string>
 	<key>tabTrigger</key>
-	<string>trans</string>
+	<string>spaceless</string>
 	<key>uuid</key>
-	<string>A3262BEA-D000-4AF3-832F-90FC6533EAC9</string>
+	<string>232B562F-564F-48A8-A714-6BF1924E3C7A</string>
 </dict>
 </plist>
