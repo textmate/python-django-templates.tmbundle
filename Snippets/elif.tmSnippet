@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{# $1 #}</string>
-	<key>keyEquivalent</key>
-	<string>^#</string>
+	<string>{% elif $1 %}</string>
 	<key>name</key>
-	<string>Comment tag</string>
+	<string>elif</string>
 	<key>scope</key>
 	<string>text.html.django</string>
 	<key>tabTrigger</key>
-	<string>#</string>
+	<string>elif</string>
 	<key>uuid</key>
-	<string>8C303CB4-D2DC-4DEA-9CF6-B8E24C021646</string>
+	<string>53EC135B-BAA6-464D-92C3-63B6991C2D10</string>
 </dict>
 </plist>
